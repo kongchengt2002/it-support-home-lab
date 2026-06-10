@@ -103,6 +103,23 @@ In the future, I plan to expand this home lab by adding:
 * Hardware troubleshooting notes
 * Basic cybersecurity troubleshooting scenarios
 
+## Project Contents
+
+- **1 - Ticket Log**  
+  Contains a spreadsheet of simulated help desk tickets with issue categories, priority levels, troubleshooting steps, resolutions, and final status.
+
+- **2 - Troubleshooting Guides**  
+  Includes step-by-step troubleshooting guides for common Tier 1 support issues such as Wi-Fi problems, slow computers, software installation issues, Microsoft Teams audio problems, and browser cache issues.
+
+- **3 - Screenshots**  
+  Shows proof of hands-on practice with Windows settings, Command Prompt tools, networking checks, printer settings, sound settings, and support documentation.
+
+- **4 - Commands Practice**  
+  Includes documentation of basic Windows support commands such as `ipconfig`, `ping`, `nslookup`, `tracert`, `systeminfo`, `tasklist`, and `sfc /scannow`.
+
+- **5 - Resume and LinkedIn Proof**  
+  Contains a project summary that can be used for LinkedIn, resumes, and job applications.
+
 ## Author
 
 **Kongcheng Thao**
